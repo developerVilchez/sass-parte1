@@ -29,6 +29,7 @@ $( _ => {
     }
     jQuery.each(Laboratoria.alumna, function(i,val){
       $('li.alumna').eq(i).text(val.name + " " + val.pLastName + " " +  val.mLastName);
+      $('li.alumna').eq(i).append('<input type="checkbox"/>')
     })
 
   }).catch(error => {
