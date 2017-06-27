@@ -1,0 +1,73 @@
+.fila-1 {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+  color: #fcfcfc;
+  background-color: #3e3f3f;
+}
+
+.fila-2 {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+  color: #fcfcfc;
+  background-color: #3e3f3f;
+}
+
+.fila-3 {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+  color: #fcfcfc;
+  background-color: #3e3f3f;
+}
+
+.fila-4 {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+  color: #fcfcfc;
+  background-color: #3e3f3f;
+}
+
+.fila-5 {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+  color: #fcfcfc;
+  background-color: #3e3f3f;
+}
+
+.fila-1 {
+  background-color: #ebb85d;
+}
+
+.fila-2 {
+  background-color: white;
+}
+
+.fila-2 ul {
+  margin: 0;
+  padding: 0;
+  font-size: 0.8em;
+  font-weight: normal;
+}
+
+.fila-2 ul > li {
+  list-style: none;
+  background-color: #3e3f3f;
+  margin-bottom: 5px;
+}
+
+.fila-2 ul > li:last-child {
+  background-color: #ebb85d;
+}
+
+.fila-3 {
+  background-color: white;
+  color: #050505;
+}
+
+.fila-4 {
+  text-align: center;
+}

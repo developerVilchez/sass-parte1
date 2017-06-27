@@ -1,0 +1,8 @@
+@mixin estilos($fsize,$fw,$color:#fcfcfc){
+	font-size: $fsize;
+	font-weight: $fw;	
+	font-family: 'Open Sans', sans-serif;
+	color: $color;
+	background-color: $color-gris;
+
+}
